@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+    <head>
+        <title>harviacode.com - codeigniter crud generator</title>
+        <link rel="stylesheet" href="http://localhost/AppGudang/assets/bootstrap/css/bootstrap.min.css"/>
+        <style>
+            .word-table {
+                border:1px solid black !important; 
+                border-collapse: collapse !important;
+                width: 100%;
+            }
+            .word-table tr th, .word-table tr td{
+                border:1px solid black !important; 
+                padding: 5px 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Data_barang_keluar List</h2>
+        <table class="word-table" style="margin-bottom: 10px">
+            <tr>
+                <th>No</th>
+		<th>Id User</th>
+		<th>Id Barang</th>
+		<th>Jumlah Keluar</th>
+		<th>Tanggal Keluar</th>
+		
+            </tr>                <tr>
+		      <td>1</td>
+		      <td>1</td>
+		      <td>1</td>
+		      <td>1</td>
+		      <td>0000-00-00</td>	
+                </tr>
+                        </table>
+    </body>
+</html>
