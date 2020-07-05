@@ -13,5 +13,5 @@ Aplikasi Perpustakaan Online ini dibuat dengan menggunakan CodeIgniter + HarviaC
 <br>
 Install:<br>
 Download dan ubah nama folder menjadi AppGudang<br>
-Install Database dalam folder i-perpustakaan<br>
+Install Database dalam folder database<br>
 
